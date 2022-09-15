@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sifra/static/css/main.02c43246.css",
-    "main.js": "/sifra/static/js/main.e546753a.js",
+    "main.css": "/sifra/static/css/main.6b6ee44d.css",
+    "main.js": "/sifra/static/js/main.e7e5a0ba.js",
     "static/js/787.30cb4a1a.chunk.js": "/sifra/static/js/787.30cb4a1a.chunk.js",
     "static/media/Slider02.jpg": "/sifra/static/media/Slider02.ad2b0de452761d60e894.jpg",
     "static/media/Slider04.jpg": "/sifra/static/media/Slider04.df00ba15cc0c83131917.jpg",
     "static/media/Slider01.jpg": "/sifra/static/media/Slider01.fd222330a0c8ca8f9b47.jpg",
     "static/media/5.jpg": "/sifra/static/media/5.65f1824859d7f325c008.jpg",
     "static/media/6.jpg": "/sifra/static/media/6.5496cc7b2f079b19b173.jpg",
-    "static/media/3.jpg": "/sifra/static/media/3.c517eab6d5086b3fdb05.jpg",
     "static/media/10.jpg": "/sifra/static/media/10.58807547a9c1db3dd2b7.jpg",
     "static/media/7.jpg": "/sifra/static/media/7.da893f7b037a4c939a46.jpg",
     "static/media/11.jpg": "/sifra/static/media/11.5e85c198a9413ec28f6c.jpg",
     "static/media/25.jpg": "/sifra/static/media/25.5e82c32cf2f97da47977.jpg",
+    "static/media/1.jpg": "/sifra/static/media/1.6280e5881220f17a85e9.jpg",
     "static/media/24.jpg": "/sifra/static/media/24.cc866562983f2116555e.jpg",
     "static/media/video.png": "/sifra/static/media/video.c0d89ea7c7d5a63c1ff8.png",
     "static/media/9.jpeg": "/sifra/static/media/9.767c49d6c820f6467758.jpeg",
@@ -56,6 +56,7 @@
     "static/media/4.jpeg": "/sifra/static/media/4.316aea91f28a86c58de0.jpeg",
     "static/media/7.jpeg": "/sifra/static/media/7.a1d58a3d39ce275107ac.jpeg",
     "static/media/14.png": "/sifra/static/media/14.a4c69126836b512788f8.png",
+    "static/media/3.jpg": "/sifra/static/media/3.c517eab6d5086b3fdb05.jpg",
     "static/media/12.jpeg": "/sifra/static/media/12.c0c9bf2d1423b0be9458.jpeg",
     "static/media/6.jpeg": "/sifra/static/media/6.eb1b7bdd66f6a787b684.jpeg",
     "static/media/21.png": "/sifra/static/media/21.2769d62981d0e1808809.png",
@@ -78,12 +79,12 @@
     "static/media/insta.svg": "/sifra/static/media/insta.65a7cdea349fc8978609db0c5ac7e005.svg",
     "index.html": "/sifra/index.html",
     "static/media/face.svg": "/sifra/static/media/face.f968c4bae61762b90b5e1041498e425b.svg",
-    "main.02c43246.css.map": "/sifra/static/css/main.02c43246.css.map",
-    "main.e546753a.js.map": "/sifra/static/js/main.e546753a.js.map",
+    "main.6b6ee44d.css.map": "/sifra/static/css/main.6b6ee44d.css.map",
+    "main.e7e5a0ba.js.map": "/sifra/static/js/main.e7e5a0ba.js.map",
     "787.30cb4a1a.chunk.js.map": "/sifra/static/js/787.30cb4a1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02c43246.css",
-    "static/js/main.e546753a.js"
+    "static/css/main.6b6ee44d.css",
+    "static/js/main.e7e5a0ba.js"
   ]
 }
